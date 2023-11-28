@@ -12,4 +12,4 @@ Dimensional ALBERT-based model for dimensional text-based emotion recognition fo
 - install requirements.txt
 - run the jupyter notebook "Emotion_Detection_Rule_vs_ML.ipynb" and select venv as runtime environment
 
-This work was created by Jordan Wenzel Richter under the supervision of Julian Striegl.
+This work was created by Jordan Wenzel Richter under the supervision of Julian Striegl as part of the Junior Research Group: "AI-based Coaching of Students/AI-based CBT" of the Center for Scalable Data Analytics and Artificial Intelligence (ScaDS.AI) Dresden/Leipzig.
