@@ -2,7 +2,7 @@
 Dimensional ALBERT-based model for dimensional text-based emotion recognition for conversational agent-based cognitive behavioral therapy.
 
 
-## Evaluation statistics
+## User Study Evaluation Statistics
 
 - can be found as Excel table in Evaluation.xlsx
 
