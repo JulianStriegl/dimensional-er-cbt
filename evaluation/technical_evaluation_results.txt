@@ -1,0 +1,110 @@
+Evaluation against Emobank:
+V MSE ML-approach: 0.0018732712436850235
+A MSE ML-approach: 0.0018914254195274698
+D MSE ML-approach: 0.0017498226798409676
+Combined MSE ML-approach: 0.001398364007150981
+V correlation ml 0.8951569970102371
+A correlation ml 0.7674186352364768
+D correlation ml 0.6436060614426501
+Combined correlation ML-approach: 0.768727231229788
+V MSE Rule-approach: 0.03061888967735774
+A MSE Rule-approach: 0.022080638017412044
+D MSE Rule-approach: 0.018037196236689836
+Combined MSE Rule-approach: 0.01984904607725888
+V correlation rule 0.3626839857910382
+A correlation rule 0.186284838145441
+D correlation rule 0.07488300425075507
+Combined correlation Rule-approach: 0.20795060939574475
+
+Evaluation against GoEmotion:
+V MSE ML-approach: 0.00423192236541014
+A MSE ML-approach: 0.004149858717734314
+D MSE ML-approach: 0.002905639723436599
+Combined MSE ML-approach: 0.0029372822710036716
+V correlation ml 0.9682821295885121
+A correlation ml 0.9285431627102567
+D correlation ml 0.9379807803167375
+Combined correlation ML-approach: 0.9449353575385021
+V MSE Rule-approach: 0.053194829543709236
+A MSE Rule-approach: 0.035773425929337965
+D MSE Rule-approach: 0.026959009529249026
+Combined MSE Rule-approach: 0.031873334465760274
+V correlation rule 0.4564406732000205
+A correlation rule 0.18260934486509847
+D correlation rule 0.2259077974006027
+Combined correlation Rule-approach: 0.28831927182190725
+
+
+Evaluation against ISEAR:
+V MSE ML-approach: 0.001081096631178941
+A MSE ML-approach: 0.0013432930268273808
+D MSE ML-approach: 0.0011054295545006327
+Combined MSE ML-approach: 0.0008480546749919405
+V correlation ml 0.9948320171236231
+A correlation ml 0.983080968293366
+D correlation ml 0.990080632391914
+Combined correlation ML-approach: 0.9893312059363012
+V MSE Rule-approach: 0.21250855532331428
+A MSE Rule-approach: 0.09735451202086338
+D MSE Rule-approach: 0.07335393440550221
+Combined MSE Rule-approach: 0.11035695307403112
+V correlation rule 0.37368366911788475
+A correlation rule 0.022358319369201508
+D correlation rule 0.2556069110032145
+Combined correlation Rule-approach: 0.21721629983010024
+
+
+Evaluation against Combined:
+V MSE ML-approach: 0.0036027685734830246
+A MSE ML-approach: 0.00356840104710427
+D MSE ML-approach: 0.0025718042719552743
+Combined MSE ML-approach: 0.002523453430229671
+V correlation ml 0.9753315955396534
+A correlation ml 0.9401120233888003
+D correlation ml 0.9505935977758628
+Combined correlation ML-approach: 0.9553457389014387
+V MSE Rule-approach: 0.06605286874300188
+A MSE Rule-approach: 0.04007991964057315
+D MSE Rule-approach: 0.030389821327817205
+Combined MSE Rule-approach: 0.038087050824350425
+V correlation rule 0.4006628996249819
+A correlation rule 0.16083474975381176
+D correlation rule 0.1909527020983423
+Combined correlation Rule-approach: 0.250816783825712
+
+
+Evaluation against Split:
+V MSE ML-approach: 0.0015359920442912817
+A MSE ML-approach: 0.0016690198948135012
+D MSE ML-approach: 0.0015454123298365928
+Combined MSE ML-approach: 0.0011418715335139158
+V correlation ml 0.9924896770667184
+A correlation ml 0.9785470417765781
+D correlation ml 0.9861132456230559
+Combined correlation ML-approach: 0.9857166548221175
+V MSE Rule-approach: 0.20663992563816772
+A MSE Rule-approach: 0.10144651920331874
+D MSE Rule-approach: 0.07307065785359604
+Combined MSE Rule-approach: 0.10983191864018425
+V correlation rule 0.4117581758347989
+A correlation rule -0.016968623609640496
+D correlation rule 0.2562455521227747
+Combined correlation Rule-approach: 0.21701170144931103
+
+Evaluation against CrowdFlower:
+V MSE ML-approach: 0.09346488639927478
+A MSE ML-approach: 0.0764827557166634
+D MSE ML-approach: 0.04697507426799259
+Combined MSE ML-approach: 0.061359560540978714
+V correlation ml 0.5333432577958191
+A correlation ml 0.20029143870097296
+D correlation ml 0.4623508045571828
+Combined correlation ML-approach: 0.39866183368465835
+V MSE Rule-approach: 0.12488889794858464
+A MSE Rule-approach: 0.0889446252838384
+D MSE Rule-approach: 0.06033153683897396
+Combined MSE Rule-approach: 0.07931895229226778
+V correlation rule 0.2967553155342766
+A correlation rule 0.1047452258185396
+D correlation rule 0.17119306232177348
+Combined correlation Rule-approach: 0.19089786789152988

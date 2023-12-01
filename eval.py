@@ -37,7 +37,6 @@ with open(lexicon_path) as f:
     except:
       continue
 
-
 # EmoBank
 train_emo_ds = pd.read_csv("content/Emotion-Detection-Datasets/emobank.csv",names=["id", "split", "V", "A", "D","text"],skiprows=1)
 
@@ -74,7 +73,6 @@ for entry in data_text.get("text"):
   train_text.append(entry)
 for i in range(len(train_text)):
   train_text[i] = [train_text[i],[0,0,0],0]
-
 
 for i in range(len(train_text)):
   emotions = []
